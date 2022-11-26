@@ -1,4 +1,23 @@
 {
+  "name": "djs-14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avalynndev/DJS-14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avalynndev/DJS-14/issues"
+  },
+  "homepage": "https://github.com/avalynndev/DJS-14#readme",
+  "description": "",
   "dependencies": {
     "discord.js": "^14.6.0"
   }
